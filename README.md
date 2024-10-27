@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/messenger-app.git
+git clone https://github.com/nomadcoding28/messenger-app.git
 cd messenger-app
 Firebase Setup
 
